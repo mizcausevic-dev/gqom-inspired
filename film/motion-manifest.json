@@ -1,0 +1,26 @@
+{
+  "title": "Gqom-Inspired",
+  "study": "gq01",
+  "bpm": 124,
+  "source_audio": "preview/gqom-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "40bd5b764eddbed8f1a42b0d1a884091cb48a5005b7762b568ed0657cffd35c4",
+  "source_midi": "midi/gq01-floor-signal/gq01-floor-signal-combined.mid",
+  "source_midi_sha256": "b10d79be2a5b03db2697a871f2b83aa3f8b93cfc6f14fd0d8e8db6b5058092aa",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9f8ed81eb144a9de256131205173c238086c8918ab4cb18f85088c892e8e130c",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "edf0792e854b1fcaa14cc38848e1a77755e4c6c60204471927e8015abae71253",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "1c435b5097ec792f3c218811a3ebaec566436d29c098fe5bc997e3e762c5d0c1",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
