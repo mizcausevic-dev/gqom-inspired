@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/gqom-inspired-simple-synth-preview.mp3",
+  "preview_sha256": "40bd5b764eddbed8f1a42b0d1a884091cb48a5005b7762b568ed0657cffd35c4",
+  "source_midi_path": "midi/gq01-floor-signal/gq01-floor-signal-combined.mid",
+  "source_midi_sha256": "b10d79be2a5b03db2697a871f2b83aa3f8b93cfc6f14fd0d8e8db6b5058092aa",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "gq01",
+    "start_seconds": 0,
+    "end_seconds": 61.935
+  },
+  "measurement": {
+    "sample_peak": 0.146688,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+gq01,Floor Signal,pack-local equal-tempered pitch collection,A,124,4/4,480,32,61440,midi/gq01-floor-signal/gq01-floor-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gq02,Quiet Corner,pack-local equal-tempered pitch collection,C,124,4/4,480,32,61440,midi/gq02-quiet-corner/gq02-quiet-corner-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gq03,Black Tile,pack-local equal-tempered pitch collection,D#,124,4/4,480,32,61440,midi/gq03-black-tile/gq03-black-tile-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+gq04,Gap Return,pack-local equal-tempered pitch collection,A#,124,4/4,480,32,61440,midi/gq04-gap-return/gq04-gap-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
