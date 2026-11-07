@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/gqom-inspired-midi.zip",
-      "bytes": 30516,
-      "sha256": "98800e9192fac0e118dabe4ae7e7aa4edfd3c8e923f67c03a134863f6dafcf93"
+      "bytes": 32891,
+      "sha256": "d338226d75a06fd64cdd276d3ceb9e4d1179ac86b21bf9bade93bcd5efcc8e53"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10276,
-      "sha256": "a99831155dab88b1adb2c5267a2d378cba6f3f0824c72b8ecda09805822781bf"
+      "bytes": 10466,
+      "sha256": "c223700792738c0e910a4caea07c76c7e26053bb1d9e2296993a1b42f6832b9e"
     },
     {
       "path": "midi/gq01-floor-signal/chord_pulse.mid",
@@ -257,6 +257,11 @@
       "sha256": "6f2f3d72376e1d74c2278db908b1771b0305931f78e072028bd17fb16bb219b2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 784,
       "sha256": "a6c9b9f6d40fe84387cefb3da916e9043bf27c5ac83a8eb752970749a15acd1f"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3360,
-      "sha256": "5d8c40d442ba0e1fa8b6da10d66322c789362541195ad4ee21f0cb74d7b694f0"
+      "bytes": 3475,
+      "sha256": "597e564cac1805a21822808117c813bde4bc25fd9edb4b1f7930c099675cbf34"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
